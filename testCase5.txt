@@ -1,0 +1,142 @@
+Your check in and check out dates must be within:
+('2022-11-28', '2023-01-12')
+Room #: 1S is available for your chosen dates
+Room #: 2S is available for your chosen dates
+Room #: 3S is available for your chosen dates
+Room #: 4S is available for your chosen dates
+Room #: 5S is available for your chosen dates
+Room #: 6S is available for your chosen dates
+Room #: 7S is available for your chosen dates
+Room #: 8S is available for your chosen dates
+Room #: 9S is available for your chosen dates
+Room #: 10S is available for your chosen dates
+Room #: 1D is available for your chosen dates
+Room #: 2D is available for your chosen dates
+Room #: 3D is available for your chosen dates
+Room #: 4D is available for your chosen dates
+Room #: 5D is available for your chosen dates
+Room #: 6D is available for your chosen dates
+Room #: 7D is available for your chosen dates
+Room #: 8D is available for your chosen dates
+Room #: 9D is available for your chosen dates
+Room #: 10D is available for your chosen dates
+Room #: 1E is available for your chosen dates
+Room #: 2E is available for your chosen dates
+Room #: 3E is available for your chosen dates
+Room #: 4E is available for your chosen dates
+Room #: 5E is available for your chosen dates
+Room #: 6E is available for your chosen dates
+Room #: 7E is available for your chosen dates
+Room #: 8E is available for your chosen dates
+Room #: 9E is available for your chosen dates
+Room #: 10E is available for your chosen dates
+---------------------------------------------
+Hotel Name: Hotel 1
+Generated on: 2022-11-28
+Name: Emaan Abdullah
+# of Guests: 0
+Phone #: 123456789
+Room Booked: 1D
+Check In Date: 2022-11-28
+Check Out Date: 2022-12-01
+
+
+Your Reservation ID: EA6789
+Amount Due: 6000
+---------------------------------------------
+
+
+Room #: 1S is available for your chosen dates
+Room #: 2S is available for your chosen dates
+Room #: 3S is available for your chosen dates
+Room #: 4S is available for your chosen dates
+Room #: 5S is available for your chosen dates
+Room #: 6S is available for your chosen dates
+Room #: 7S is available for your chosen dates
+Room #: 8S is available for your chosen dates
+Room #: 9S is available for your chosen dates
+Room #: 10S is available for your chosen dates
+Room #: 1D is available for your chosen dates
+Room #: 2D is available for your chosen dates
+Room #: 3D is available for your chosen dates
+Room #: 4D is available for your chosen dates
+Room #: 5D is available for your chosen dates
+Room #: 6D is available for your chosen dates
+Room #: 7D is available for your chosen dates
+Room #: 8D is available for your chosen dates
+Room #: 9D is available for your chosen dates
+Room #: 10D is available for your chosen dates
+Room #: 1E is available for your chosen dates
+Room #: 2E is available for your chosen dates
+Room #: 3E is available for your chosen dates
+Room #: 4E is available for your chosen dates
+Room #: 5E is available for your chosen dates
+Room #: 6E is available for your chosen dates
+Room #: 7E is available for your chosen dates
+Room #: 8E is available for your chosen dates
+Room #: 9E is available for your chosen dates
+Room #: 10E is available for your chosen dates
+---------------------------------------------
+Hotel Name: Hotel 1
+Generated on: 2022-11-28
+Name: David Venuto
+# of Guests: 0
+Phone #: 123456789
+Room Booked: 2D
+Check In Date: 2022-12-04
+Check Out Date: 2022-12-07
+
+
+Your Reservation ID: DV6789
+Amount Due: 6000
+---------------------------------------------
+
+
+EA6789 has room ['1D'] booked between 2022-11-28 and 2022-12-01
+Fully refunded: $ 6000
+Reservation EA6789 Cancelled
+Room #: 1S is available for your chosen dates
+Room #: 2S is available for your chosen dates
+Room #: 3S is available for your chosen dates
+Room #: 4S is available for your chosen dates
+Room #: 5S is available for your chosen dates
+Room #: 6S is available for your chosen dates
+Room #: 7S is available for your chosen dates
+Room #: 8S is available for your chosen dates
+Room #: 9S is available for your chosen dates
+Room #: 10S is available for your chosen dates
+Room #: 1D is available for your chosen dates
+Room #: 3D is available for your chosen dates
+Room #: 4D is available for your chosen dates
+Room #: 5D is available for your chosen dates
+Room #: 6D is available for your chosen dates
+Room #: 7D is available for your chosen dates
+Room #: 8D is available for your chosen dates
+Room #: 9D is available for your chosen dates
+Room #: 10D is available for your chosen dates
+Room #: 1E is available for your chosen dates
+Room #: 2E is available for your chosen dates
+Room #: 3E is available for your chosen dates
+Room #: 4E is available for your chosen dates
+Room #: 5E is available for your chosen dates
+Room #: 6E is available for your chosen dates
+Room #: 7E is available for your chosen dates
+Room #: 8E is available for your chosen dates
+Room #: 9E is available for your chosen dates
+Room #: 10E is available for your chosen dates
+---------------------------------------------
+Hotel Name: Hotel 1
+Generated on: 2022-11-28
+Name: Emaan Abdullah
+# of Guests: 0
+Phone #: 123456789
+Room Booked: 10E
+Check In Date: 2022-11-28
+Check Out Date: 2022-12-07
+
+
+Your Reservation ID: EA6789
+Amount Due: 27000
+---------------------------------------------
+
+
