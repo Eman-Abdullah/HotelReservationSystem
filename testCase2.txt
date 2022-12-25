@@ -1,0 +1,21 @@
+Your Reservation ID: EA7891
+Amount Due: 1000
+
+
+Fully refunded: $ 1000
+Reservation EA7891 Cancelled
+Room #: 1S is available for your chosen dates
+---------------------------------------------
+Hotel Name: Hotel 1
+Name: John Doe
+# of Guests: 0
+Phone #: 1234567891
+Room Booked: 1S
+
+
+Your Reservation ID: JD7891
+Amount Due: 1000
+---------------------------------------------
+
+
+JD7891 :Hotel is sold out for the selected dates!

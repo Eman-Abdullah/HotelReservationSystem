@@ -1,0 +1,48 @@
+Your check in and check out dates must be within:
+Room #: 1D is available for your chosen dates
+---------------------------------------------
+Hotel Name: Hotel 1
+Name: Emaan Abdullah
+# of Guests: 0
+Phone #: 123456789
+Room Booked: 1D
+
+
+Your Reservation ID: EA6789
+Amount Due: 6000
+---------------------------------------------
+
+
+Room #: 1D is available for your chosen dates
+---------------------------------------------
+Hotel Name: Hotel 1
+Name: John Doe
+# of Guests: 0
+Phone #: 123456789
+Room Booked: 1D
+
+
+Your Reservation ID: JD6789
+Amount Due: 6000
+---------------------------------------------
+
+
+Fully refunded: $ 6000
+Reservation EA6789 Cancelled
+EA6789 :Hotel is sold out for the selected dates!
+Modification unsuccessful since another customer is booked, resetting dates...
+
+Room #: 1D is available for your chosen dates
+---------------------------------------------
+Hotel Name: Hotel 1
+Name: Emaan Abdullah
+# of Guests: 0
+Phone #: 123456789
+Room Booked: 1D
+
+
+Your Reservation ID: EA6789
+Amount Due: 6000
+---------------------------------------------
+
+

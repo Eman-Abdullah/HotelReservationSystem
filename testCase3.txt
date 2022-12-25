@@ -1,0 +1,41 @@
+Your check in and check out dates must be within:
+Room #: 1S is available for your chosen dates
+Room #: 1D is available for your chosen dates
+Room #: 1E is available for your chosen dates
+---------------------------------------------
+Hotel Name: Hotel 1
+Name: Emaan Abdullah
+# of Guests: 0
+Phone #: 123456789
+Room Booked: 1S
+
+
+
+Your Reservation ID: EA6789
+Amount Due: 6000
+---------------------------------------------
+
+
+Room #: 1D is available for your chosen dates
+Room #: 1E is available for your chosen dates
+
+
+EA6789 is already booked in Room: ['1S']
+
+
+Room #: 1D is available for your chosen dates
+Room #: 1E is available for your chosen dates
+---------------------------------------------
+Hotel Name: Hotel 1
+Name: John Doe
+# of Guests: 0
+Phone #: 123456789
+Room Booked: 1E
+
+
+
+Your Reservation ID: JD6789
+Amount Due: 24000
+---------------------------------------------
+
+
